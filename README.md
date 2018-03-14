@@ -28,5 +28,5 @@ The accuracy of the classifier reaches 99.2%
  
  
  ## Performance
- ![GIF](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/Animation.gif)
+ ![GIF](https://github.com/Yunying-Chen/Vehicle_Detection/blob/master/img/Animation.gif)
 
